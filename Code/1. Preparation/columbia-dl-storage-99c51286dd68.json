@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "columbia-dl-storage",
+  "private_key_id": "99c51286dd6812a9dc515cf48f5320c826b43513",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDzXwVO8PxE/FML\nOkT5bwQytHoMj8yVFT0NliIk7wlkulDvv0EcJdty6teR36Hk0FFgxiz11TpmXrdR\nSdwBObPXvqx5iF6PMsTFQUc/BNJUhN/0oLg2+UDnBZkXeMkezIXaT2uTKEk6Lkai\nE6E7lxTbvzdfQWV/ryA1h0XclXbo8asLWgqG1papK7WQZsITPNhAkYx3RoKTB4mp\n7wM5+yGaZJPy365bCmzhaPhB0Za4FH/gVpSebgLD1mqsTvbHgo772kaR6dZu/+Fy\n+458UHd437MXfEUry4lBUtZR/o/qMa10WRAA161ZjqEN1KUs68m+9bFhnG1eGuZO\nPufiq0xLAgMBAAECggEAcWvUXoEDIOdzkGT8pj7t9u+Tfe06jDRUutNAYHQirZYD\niGha4NJn3rvB8ZMGsUvA0VgqtftE91anGrRQWyXYQfD0EsPSReyENeYBXUZS+97d\nPPX2RHCPpds/COha2wa4TxD6cp+w2POeKYT6fHoh13PbS4J/2iz01t2PWokx3Mdz\npEor9OB424WaEyioWzSiU2QU+TZjiqorrqTG6KppEp8Jdb4K/mojtqJs4Ri0YCtJ\n/KaI8sqJR7NMZo/6gM0ljtRgnU1kYqEcMpp5ufiQ7vPuKc1kIXXsTVmF6ywNXErx\nr5vXa0FEJnwxlinzcAwIFasv+8viyMzjroYwb9EAoQKBgQD7tg6fnEPgAUI2a8EF\nCur1knMDj05hCzoNroME6ddr1jbIEd4Z7x7d+2Hpli3FD2QKhoLpXdPAFc1rrquU\nvI15C9I3F+kduWtkib7H5V2eTYqAIlNeLalUb57F+mtUOFlkMScZmtqXZeAtUbut\nIWXMjgIx8aBnOgmt4Y0Wys8McQKBgQD3hJXWBlIxqARnsYC80viMtajJYi3AE616\n+DDqQq8utoHuNBsUMhPSjG1EVWnJ/aX0dXCeRl11pYGU59wM9FJPvvMAiOnmphhS\n8DSM9C7yBDVhpULvqz9NCi4j1PkOnYzm6o4X1PbHhMonG2AXIepIT1LqyhivLP8W\nP82+owZyewKBgQCvusi20efpKbfKOqxFEvw6egXmBFSaF7Zt+tnpwj/tP157i03e\nGT0ZiPkwlPJbU4Vqe8JFnoXI4u/JL+cGLiUuzvvyDrVnVR4O0MPq1sznSgdZsZ02\ncPZ4xny4hz4LTFPMSSydCal2bV93BErcciaaCsKpj6GGr9Q2GvPfZ7PpYQKBgHXn\nMECdDjYdJMwIH5zSmhbcyaP0InrmZLK42wQb87q6sTW4mFWMbSjUP5BXZ2cSbiT+\ndEDQn+BUkF9P+uAo2bSm7rYIgfKel+OaDE5AWsRqAMucnz/vQN3/xW7IGkM+BUpR\n3JG5njv4IxtxzNn4C9OaBZNV5WA8fN4qUmVG3uFVAoGAbpHfnYMgmwFOaI027jdn\nXh4g2vQse7nesI2okxjvhFRd7lvkfaMAZgQq6TqNSKrd7JItnFTCcT96WhQzdU+t\nP1XW7QrXgIDFLSOMbuvdbiP0Or6CMYfFc6VcyspaykdCSC/wBoUMTwlJPKQ54Unz\njk/086YtKJdpzNpyTApuQM8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "columbia-dl-storage-gcs@columbia-dl-storage.iam.gserviceaccount.com",
+  "client_id": "116644295072433033590",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/columbia-dl-storage-gcs%40columbia-dl-storage.iam.gserviceaccount.com"
+}
